@@ -1,0 +1,8 @@
+D:\Project\CSharpTest\CsharpTest\bin\Debug\CsharpTest.exe.config
+D:\Project\CSharpTest\CsharpTest\bin\Debug\CsharpTest.exe
+D:\Project\CSharpTest\CsharpTest\bin\Debug\CsharpTest.pdb
+D:\Project\CSharpTest\CsharpTest\obj\Debug\CsharpTest.csproj.AssemblyReference.cache
+D:\Project\CSharpTest\CsharpTest\obj\Debug\CsharpTest.csproj.SuggestedBindingRedirects.cache
+D:\Project\CSharpTest\CsharpTest\obj\Debug\CsharpTest.csproj.CoreCompileInputs.cache
+D:\Project\CSharpTest\CsharpTest\obj\Debug\CsharpTest.exe
+D:\Project\CSharpTest\CsharpTest\obj\Debug\CsharpTest.pdb

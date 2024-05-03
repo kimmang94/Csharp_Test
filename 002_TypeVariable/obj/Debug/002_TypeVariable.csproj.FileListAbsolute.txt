@@ -1,0 +1,8 @@
+D:\Project\CSharpTest\002_TypeVariable\bin\Debug\002_TypeVariable.exe.config
+D:\Project\CSharpTest\002_TypeVariable\bin\Debug\002_TypeVariable.exe
+D:\Project\CSharpTest\002_TypeVariable\bin\Debug\002_TypeVariable.pdb
+D:\Project\CSharpTest\002_TypeVariable\obj\Debug\002_TypeVariable.csproj.AssemblyReference.cache
+D:\Project\CSharpTest\002_TypeVariable\obj\Debug\002_TypeVariable.csproj.SuggestedBindingRedirects.cache
+D:\Project\CSharpTest\002_TypeVariable\obj\Debug\002_TypeVariable.csproj.CoreCompileInputs.cache
+D:\Project\CSharpTest\002_TypeVariable\obj\Debug\002_TypeVariable.exe
+D:\Project\CSharpTest\002_TypeVariable\obj\Debug\002_TypeVariable.pdb
