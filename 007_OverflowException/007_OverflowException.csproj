@@ -7,7 +7,7 @@
     <ProjectGuid>{A0DFBA03-F967-475E-B0D8-DA9BCEDED88C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_007_OverflowException</RootNamespace>
-    <AssemblyName>_007_OverflowException</AssemblyName>
+    <AssemblyName>007_OverflowException</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

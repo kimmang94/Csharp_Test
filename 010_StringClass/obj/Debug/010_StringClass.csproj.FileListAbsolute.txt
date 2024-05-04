@@ -1,0 +1,8 @@
+D:\Project\CSharpTest\010_StringClass\bin\Debug\010_StringClass.exe.config
+D:\Project\CSharpTest\010_StringClass\bin\Debug\010_StringClass.exe
+D:\Project\CSharpTest\010_StringClass\bin\Debug\010_StringClass.pdb
+D:\Project\CSharpTest\010_StringClass\obj\Debug\010_StringClass.csproj.AssemblyReference.cache
+D:\Project\CSharpTest\010_StringClass\obj\Debug\010_StringClass.csproj.SuggestedBindingRedirects.cache
+D:\Project\CSharpTest\010_StringClass\obj\Debug\010_StringClass.csproj.CoreCompileInputs.cache
+D:\Project\CSharpTest\010_StringClass\obj\Debug\010_StringClass.exe
+D:\Project\CSharpTest\010_StringClass\obj\Debug\010_StringClass.pdb

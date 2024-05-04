@@ -7,7 +7,7 @@
     <ProjectGuid>{BC9D7F07-3D6F-416A-9DAB-88DB6ADAAAC2}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_003_StringChar</RootNamespace>
-    <AssemblyName>_003_StringChar</AssemblyName>
+    <AssemblyName>003_StringChar</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

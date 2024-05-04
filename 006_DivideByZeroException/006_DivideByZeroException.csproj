@@ -7,7 +7,7 @@
     <ProjectGuid>{C2800D1A-AD18-401B-B37B-431FD808B273}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_006_DivideByZeroException</RootNamespace>
-    <AssemblyName>_006_DivideByZeroException</AssemblyName>
+    <AssemblyName>006_DivideByZeroException</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
